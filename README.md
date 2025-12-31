@@ -468,7 +468,7 @@ We welcome contributions! Here's how you can help:
 
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
-```
+<!-- ```
 MIT License
 
 Copyright (c) 2024 Ashwani Kumar
@@ -490,7 +490,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
+``` -->
 
 ---
 
